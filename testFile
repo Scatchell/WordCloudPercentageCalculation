@@ -1,3 +1,184 @@
 15 : Acceptance test of journeys.
-4 : ALT.NET.
 9 : Agile analytics.
+4 : ALT.NET.
+1 : Android.
+0 : Apache camel.
+21 : API management services.
+5 : App containers.
+0 : AppHarbor.
+2 : Application appliances.
+1 : ASP.NET MVC.
+1 : Atom.
+26 : Automate database deployment.
+25 : Automation of technical tests.
+10 : AWS.
+1 : Azure.
+1 : Backbone.js.
+14 : Build pipelines.
+34 : Build your own radar.
+1 : Buying solutions you can only afford one of.
+2 : C# 4.0.
+0 : Caching reverse proxies.
+1 : Capability modeling.
+9 : Care about hardware.
+19 : Care about languages.
+1 : Categorization & prioritization of technical debt.
+5 : Chrome.
+5 : Chrome OS.
+9 : Client-Side MVC.
+0 : ClojureScript.
+3 : Closure.
+17 : Cloud.
+0 : Cloud foundry.
+19 : Code in configuration.
+6 : Coding architects.
+4 : Coffeescript.
+5 : Communication between those responsible for hardware and software.
+1 : Concurrency abstractions and patterns.
+3 : Concurrent languages.
+41 : Continuous delivery.
+21 : Continuous deployment.
+5 : Cross mobile platforms.
+1 : Cross platform mobile toolkits.
+6 : Data visualizations of development and operations.
+15 : Database based integration.
+0 : Decision driven BI.
+0 : Deltacloud.
+41 : DevOps.
+23 : Distributed version control.
+1 : Domain-specific PaaS.
+5 : DSLs.
+7 : EC2 & S3.
+0 : Embedding a servlet container.
+2 : Emergent design.
+1 : Enterprise Service Bus.
+2 : ESB.
+22 : Event API's.
+8 : Event driven business intelligence.
+1 : Event sourcing.
+5 : Evolutionary architecture.
+3 : Evolutionary database.
+2 : Experience Design (XD).
+7 : F#.
+18 : Facebook as business platform.
+12 : Feature branching.
+5 : Firefox.
+1 : FPM.
+0 : Frank.
+16 : Functional Java.
+21 : Future of Java.
+14 : Git.
+23 : GitHub.
+3 : Google App Engine.
+3 : Google as corporate platform.
+1 : Google Dart.
+2 : Google Wave.
+0 : GPGPU.
+0 : Gradle.
+1 : Groovy.
+2 : GWT.
+2 : HAML.
+6 : Health check pages.
+2 : Heroku.
+5 : HTML5.
+2 : Hybrid Clouds.
+1 : IE6 end of life.
+0 : IE8.
+0 : Incremental data warehousing.
+17 : Infrastructure as code.
+0 : Infrastructure automation of deployment workstations.
+1 : Intentional.
+3 : IPad Tablet.
+19 : iPhone.
+1 : Iterative data warehousing.
+0 : Jade.
+19 : Java language end of life.
+1 : Java portal servers.
+18 : Javascript as a first-class language.
+2 : Javascript micro frameworks.
+1 : Javascript tooling.
+2 : Jquery mobile.
+3 : JVM as platform.
+1 : KVM.
+0 : Language workbenches.
+8 : Large format mobile devices.
+39 : Lean software development.
+4 : Linux containers.
+20 : Location based services.
+2 : Log aggregation and indexing.
+2 : Logic in stored procedures.
+0 : Logic-free markup.
+8 : Manual infrastructure management.
+4 : Maven.
+0 : Mechanical sympathy.
+1 : Mercurial.
+1 : Message buses without smarts.
+3 : Micro-services.
+13 : mobile web.
+8 : mongoDB.
+0 : Neo4j.
+0 : New Relic beyond Rails.
+9 : Next-generation test tools.
+6 : Node.js.
+6 : Non-relational databases.
+8 : NoSQL.
+0 : NuGet.
+0 : Oauth.
+0 : Offline mobile webapps HTML5.
+3 : Open source BI tools.
+2 : OpenSocial.
+1 : OpenStack.
+5 : Out-of-container functional testing.
+1 : Performance testing as a first class citizen.
+0 : Platform roadmaps.
+1 : Polyglot development environments.
+1 : Polyglot persistance.
+1 : Polyglot programming.
+3 : Powershell.
+9 : Private clouds.
+1 : Procedure oriented integration.
+0 : Production immune system.
+0 : Progressive Enhancement.
+0 : Psake.
+6 : Puppet.
+0 : RDF & SPARQL.
+0 : RDF triple stores.
+0 : RDFa.
+8 : Real-time business intelligence.
+1 : Restfulie.
+0 : RIA.
+2 : Riak.
+4 : Rich Internet applications.
+4 : Ruby Jruby.
+0 : SASS, SCSS and LESS.
+9 : Scala.
+0 : Scrum certification.
+5 : Selenium 2 testing of mobile websites.
+3 : Server application container end of life.
+0 : Service choreography.
+0 : Simple performance trending.
+14 : Single command deploy.
+2 : Single threaded servers with asynchronous IO.
+20 : Smart Systems.
+0 : Sonar.
+0 : Splunk.
+0 : Squid.
+3 : Subversion.
+20 : Test at the appropriate level.
+2 : Test recorders.
+0 : Thoughtful caching.
+0 : TLB.
+1 : Treating Vms like physical infrastructure.
+1 : Ubiquitous computing.
+2 : User centered design.
+4 : Vagrant.
+0 : VCS with “implicit workflow”.
+0 : vFabric.
+0 : Visualization & metrics.
+1 : Visualizations for business data.
+0 : WCF HTTP.
+25 : Web as platform.
+12 : Windows infrastructure automation.
+16 : Windows Phone 7.
+1 : WS.
+15 : Zero-code packages.
