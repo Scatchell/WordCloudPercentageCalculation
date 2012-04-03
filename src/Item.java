@@ -10,6 +10,7 @@ public class Item {
 
     int hits;
     int percentage;
+
     public Item(String name, int hits) {
         this.name = name;
         this.hits = hits;
@@ -20,7 +21,7 @@ public class Item {
         dPercentage /= largest;
         dPercentage *= 100;
 
-        percentage = (int) dPercentage;
+        this.percentage = (int) dPercentage;
     }
 
     public int getPercentage() {
@@ -36,8 +37,24 @@ public class Item {
     }
 
     @Override
-    public boolean equals(Object obj) {
-        Item otherItem = (Item) obj;
-        return otherItem.getHits() == this.getHits() && otherItem.getName().equals(this.getName());
+    public boolean equals(Object o) {
+        if (this == o) return true;
+
+        if (o == null || getClass() != o.getClass()) return false;
+
+        Item item = (Item) o;
+
+        if (hits != item.hits) return false;
+        if (name != null ? !name.equals(item.name) : item.name != null) return false;
+
+        return true;
+    }
+
+    @Override
+    public int hashCode() {
+        int result = name != null ? name.hashCode() : 0;
+        result = 31 * result + hits;
+        result = 31 * result + percentage;
+        return result;
     }
 }

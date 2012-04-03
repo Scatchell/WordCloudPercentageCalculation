@@ -13,7 +13,7 @@ public class HitsComparator implements Comparator {
         Item a = (Item) o;
         Item b = (Item) o1;
 
-        if(a.getHits() < b.getHits()) {
+        if(b.getHits() > a.getHits()) {
             return 1;
         } else if(a.getHits() == b.getHits()) {
             return 0;
